@@ -1,6 +1,6 @@
 ### Languages
 
-<img src="https://img.shields.io/badge/-HTML-red"/> <img src="https://img.shields.io/badge/-CSS-blueviolet"/>
+<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=HTML5&logoColor=fff"/> <img src="https://img.shields.io/badge/-CSS-blueviolet"/>
 
 ### Tools
 
