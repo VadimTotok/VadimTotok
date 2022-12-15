@@ -12,3 +12,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-fa05c9?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/vadimtotok)
 [![YouTube](https://img.shields.io/badge/-YouTube-fa0505?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UC525okJ9tLrXzo6toDKgFFg)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/VadimTotok)
+[![Steam](https://img.shields.io/badge/-Steam-124bc7?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/MrStevenson)
