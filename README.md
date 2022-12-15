@@ -1,6 +1,6 @@
 ### Languages
 
-![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-fc4903?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 
 ### Tools
