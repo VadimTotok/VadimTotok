@@ -4,7 +4,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0091d5?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 
 ### Tools
-![Photoshop](https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=03befc)
+![Photoshop](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=03befc)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=3666f5)
 
 ### Follow Me
