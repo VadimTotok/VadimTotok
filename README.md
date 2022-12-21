@@ -14,6 +14,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/VadimTotok)
 [![Steam](https://img.shields.io/badge/-Steam-124bc7?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/MrStevenson)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimTotok)
+![Stats](https://github-readme-stats.vercel.app/api?username=VadimTotok)
 <br/>
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTotok&layout=compact)
