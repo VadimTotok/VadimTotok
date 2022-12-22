@@ -1,5 +1,6 @@
 ### Languages
 
+![PYTHON](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=python&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-fc4903?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-0091d5?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 
