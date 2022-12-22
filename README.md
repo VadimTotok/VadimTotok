@@ -6,7 +6,7 @@
 
 ### Tools
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=20d089)
-![Photoshop](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=03befc)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=03befc)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=3666f5)
 
 ### Follow Me
