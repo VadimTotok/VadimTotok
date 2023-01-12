@@ -15,7 +15,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-fa05c9?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/vadimtotok)
 [![YouTube](https://img.shields.io/badge/-YouTube-fa0505?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UC525okJ9tLrXzo6toDKgFFg)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/VadimTotok)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=VadimTotok)
-<br/>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTotok&layout=compact)
