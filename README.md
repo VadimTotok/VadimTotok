@@ -2,11 +2,11 @@
     <b>Java backend developer. I love Kotlin. Currently learning Go. I enjoy programming and playing the guitar 🎸.</b>
 </p>
 
-### Technical Skills
+### Technical Skills 🚀
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,html,css,js,ts,spring,angular,linux,postgres,docker,gitlab)](https://skillicons.dev)
 
 <details>
-<summary>Other Technologies</summary>
+<summary> Other Technologies </summary>
 <br/>
 
 ![](https://img.shields.io/badge/-Go-090909?style=flat&logo=go&logoColor=00a6d0)
