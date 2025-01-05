@@ -25,5 +25,4 @@
 <br/>
 
 <!-- statistics -->
-<img src="https://github-readme-stats.vercel.app/api?username=VadimTotok&show_icons=true&theme=radical" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTotok&layout=compact&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VadimTotok&show_icons=true&theme=radical" width="375"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTotok&layout=compact&theme=radical" width="375"/>
