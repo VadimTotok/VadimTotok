@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,html,css,js,ts,spring,angular,linux,postgres,docker,gitlab)](https://skillicons.dev)
 
 <details>
-<summary> Other Technologies </summary>
+<summary> Other </summary>
 <br/>
 
 ![](https://img.shields.io/badge/-Go-090909?style=flat&logo=go&logoColor=00a6d0)
