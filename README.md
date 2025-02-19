@@ -3,7 +3,7 @@
 </p>
 
 ### Technical Skills 🚀
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,html,css,js,ts,spring,angular,linux,postgres,docker,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,spring,angular,linux,postgres,docker,gitlab)](https://skillicons.dev)
 
 <details>
 <summary> Other </summary>
