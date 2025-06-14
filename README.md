@@ -3,7 +3,7 @@
 </p>
 
 ### Stack 🚀
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,ts,spring,docker,postgres,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,ts,docker,postgres)](https://skillicons.dev)
 
 ### My Linux Journey 🐧
 Ubuntu -> Kali -> Manjaro -> Arch -> **ALT Linux**
