@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,ts,docker,postgres)](https://skillicons.dev)
 
 ### My Linux Journey 🐧
-Astra Linux, Ubuntu, Kali, Manjaro, Arch, ALT Linux, **Debian**
+Astra, Ubuntu, Kali, Manjaro, Arch, ALT, **Debian**
 
 <!-- statistics -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=VadimTotok&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>
