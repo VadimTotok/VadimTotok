@@ -3,7 +3,7 @@
 </p>
 
 ### Stack 🚀
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,ts,docker,postgres,nginx,debian)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,dart,ts,flutter,docker,postgres,nginx,debian)
 
 ### My Linux Journey 🐧
 Astra, Ubuntu, Kali, Pop! OS, Manjaro, Arch, ALT, **Debian** [**My Dots**](https://github.com/VadimTotok/dotfiles)
