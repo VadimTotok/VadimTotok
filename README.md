@@ -5,6 +5,17 @@
 ### I prefer to use 🚀
 ![My Skills](https://skillicons.dev/icons?i=java,py,ts,docker,postgres,nginx,debian)
 
+<details>
+<summary> Other knowledge </summary>
+    
+![](https://img.shields.io/badge/-Kotlin-090909?style=flat&logo=Kotlin&logoColor=ffffff)
+![](https://img.shields.io/badge/-Flutter-090909?style=flat&logo=Flutter&logoColor=ffffff)
+![](https://img.shields.io/badge/-Telegram_API-090909?style=flat&logo=Telegram&logoColor=ffffff)
+![](https://img.shields.io/badge/-Svelte-090909?style=flat&logo=Svelte&logoColor=ffffff)
+![](https://img.shields.io/badge/-MySQL-090909?style=flat&logo=MySQL&logoColor=ffffff)
+![](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma&logoColor=ffffff)
+</details>
+
 ### My Linux Journey 🐧
 Astra, Ubuntu, Kali, Pop! OS, Manjaro, Arch, ALT, **Debian** [**My Dots**](https://github.com/VadimTotok/dotfiles)
 
