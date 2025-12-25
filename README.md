@@ -7,5 +7,3 @@
 
 ### 🐧My Linux Journey
 Astra, Ubuntu, Kali, Pop! OS, Manjaro, Arch, ALT, **Debian** [**My Dots**](https://github.com/VadimTotok/dotfiles)
-
-**[totok.space](https://totok.space/)** (currently down)
