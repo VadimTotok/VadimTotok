@@ -5,3 +5,5 @@
 
 ### 🐧My Linux Journey
 Astra ➞ Ubuntu ➞ Kali ➞ Pop! OS ➞ Manjaro ➞ Arch ➞ ALT ➞ **Debian** [**My Dots**](https://github.com/VadimTotok/dotfiles)
+
+![](https://komarev.com/ghpvc/?username=VadimTotok)
