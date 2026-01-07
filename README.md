@@ -1,4 +1,4 @@
-#### A backend developer from Belgorod, Russia, who uses GNU/Linux on a daily basis. An enthusiast of free software and deventralization.
+#### A backend developer from Belgorod, Russia, who uses GNU/Linux on a daily basis. An enthusiast of free software and decentralization.
 
 ### 🚀 I prefer to use
 ![My Skills](https://skillicons.dev/icons?i=go,python,ts,java,docker,postgres)
