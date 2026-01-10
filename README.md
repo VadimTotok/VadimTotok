@@ -6,4 +6,9 @@
 ### 🐧My Linux Journey
 Astra ➞ Ubuntu ➞ Kali ➞ Pop! OS ➞ Manjaro ➞ Arch ➞ ALT ➞ **Debian** [**My Dots**](https://github.com/VadimTotok/dotfiles)
 
+## 🌈 GOALS:
+- Create my own linux distro.
+- Create my own game (a visual novel or something in the style of the old ps).
+- STOP SCREWING AROUND!
+
 ![](https://komarev.com/ghpvc/?username=VadimTotok)
