@@ -4,11 +4,6 @@
 ![My Skills](https://skillicons.dev/icons?i=java,go,python,ts,docker,postgres)
 
 ### 🐧My Linux Journey
-Astra ➞ Ubuntu ➞ Kali ➞ Pop! OS ➞ Manjaro ➞ Arch ➞ ALT ➞ **Debian** [**My Dots**](https://github.com/VadimTotok/dotfiles)
-
-## 🌈 GOALS:
-- Create my own linux distro.
-- Create my own game (a visual novel or something in the style of the old ps).
-- STOP SCREWING AROUND!
+Astra ➞ Ubuntu ➞ Kali ➞ Pop! OS ➞ Manjaro ➞ Arch ➞ ALT ➞ Debian ➞ **Fedora** [**My Dots**](https://github.com/VadimTotok/dotfiles)
 
 ![](https://komarev.com/ghpvc/?username=VadimTotok)
