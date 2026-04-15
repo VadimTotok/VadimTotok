@@ -3,7 +3,8 @@
 ### 🚀 I prefer to use
 ![My Skills](https://skillicons.dev/icons?i=java,go,python,ts,docker,postgres)
 
-### 🐧My Linux Journey
-Astra ➞ Ubuntu ➞ Kali ➞ Pop! OS ➞ Manjaro ➞ Arch ➞ ALT ➞ Debian ➞ **Fedora** [**My Dots**](https://github.com/VadimTotok/dotfiles)
+### 🐧Operating Systems
+- Fedora - desktop computer >> [**My Dots**](https://github.com/VadimTotok/dotfiles)
+- Debian - home server
 
 ![](https://komarev.com/ghpvc/?username=VadimTotok)
